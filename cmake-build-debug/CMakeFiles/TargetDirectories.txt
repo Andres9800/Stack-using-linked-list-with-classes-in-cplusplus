@@ -1,3 +1,0 @@
-C:/Users/adsc9/CLionProjects/Lista Simple Templates Pila/cmake-build-debug/CMakeFiles/Lista_Simple_Templates.dir
-C:/Users/adsc9/CLionProjects/Lista Simple Templates Pila/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/adsc9/CLionProjects/Lista Simple Templates Pila/cmake-build-debug/CMakeFiles/rebuild_cache.dir
